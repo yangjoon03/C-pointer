@@ -3,6 +3,6 @@
 -------------------
 <br>
 
-* ##Create Argument_Passing_Mechanism(인수 전달 매커니즘)
+* ## Create Argument_Passing_Mechanism(인수 전달 매커니즘)
   * 함수 호출시 매개변수는 값을 넘기기 때문에 호출한 함수의 변수는 영향을 끼치지 않음.
   * 포인터를 사용시 호출한 함수의 변수 변경이 가능해짐.
