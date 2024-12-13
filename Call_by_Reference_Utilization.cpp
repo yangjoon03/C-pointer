@@ -13,8 +13,8 @@ void call_by_reference::manage() {
 	int a = 10;
 	int aa = 10;
 	cout << "a : " << a << " / aa : " << aa << endl;
-	Value_plus(&a);
 	Value_plus(a);
+	Value_plus(&aa);
 	cout << "a : " << a << " / aa : " << aa << endl;
 }
 
