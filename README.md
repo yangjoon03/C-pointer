@@ -8,5 +8,5 @@
   * call_by_reference 포인터를 사용시 호출한 함수의 변수 변경이 가능해짐.
 <br>
 ## Argument_Passing_Mechanism_Utilization(인수 전달 메커니즘 활용)
- * a 는 함수 호출한 곳의 값이 변경 O
- * aa는 함수 호출한 곳의 값이 변경 X
+  * a 는 함수 호출한 곳의 값이 변경 O
+  * aa는 함수 호출한 곳의 값이 변경 X
