@@ -11,7 +11,7 @@
 
 ## Argument_Passing_Mechanism_Utilization(인수 전달 메커니즘 활용)
   * call_by_value      : a  는 함수 호출한 곳의 값이 변경 X  
-  * call_by_reference  : aa 는 함수 호출한 곳의 값이 변경 O
+  * call_by_reference  : aa 는 함수 호출한 곳의 값이 변경 O#
   *  -에러 예시 추가 예정
 <br>
 
@@ -23,3 +23,4 @@
 
 ✔탐색에서는 더블포인트가 필요하지 않은 이유.
   * 값을 변경할 필요가 없기때문에 call_by_value와 같은 문제가 발생하지 않는다.
+  * 에러코드 제공 예정.
